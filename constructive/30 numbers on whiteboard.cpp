@@ -1,6 +1,6 @@
 /*******************************************************************************************************************************************************************
 Numbers 1,2,3,…n (each integer from 1 to n once) are written on a board. In one operation you can erase any two numbers a and b from the board and write
-one integer a+b2 rounded up instead.
+one integer (a+b)/2 rounded up instead.
 
 You should perform the given operation n−1 times and make the resulting number that will be left on the board as small as possible.
 
